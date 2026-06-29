@@ -1,5 +1,5 @@
 <h1 align="center">Hello fella 👋, I'm Ahmad Faisal</h1>
-<h3>I'm a Tech and Audio (kinda) enthusiast from Indonesia. I love building web projects using MERN Stack (Gonna migrate to PostgreSQL soon). When I'm not coding, I'm probably playing guitar or just doomscrolling Manhwa</h3>
+<h3>I'm a Tech and Audio (kinda) enthusiast from Indonesia. I love building web projects using MERN Stack (Currently migrating to PostgreSQL). When I'm not coding, I'm probably playing guitar or just doomscrolling Manhwa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salsykeys&label=Profile%20views&color=0e75b6&style=flat" alt="salsykeys" /> </p>
 
