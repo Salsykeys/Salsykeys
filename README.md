@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahmadfaisall9712@gmail.com**
 
-- ⚡ Fun fact **My guitar just broke... I'm planning to buy new guitar next month**
+- 👾 Fun fact **My guitar just broke... I'm planning to buy new guitar next month**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
