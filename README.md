@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NARAFlow**
 
-- 🌱 I’m currently learning **PostgreSQL and Flask**
+- 🌱 I’m currently learning **PostgreSQL and FastAPI**
 
 - 💬 Ask me about **Audio stuff**
 
