@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ahmadfaisall9712@gmail.com**
 
-- 👾 Fun fact **My guitar just broke... I'm planning to buy new guitar next month**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmad faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad faisal" height="30" width="40" /></a>
