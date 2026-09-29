@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salsykeys&label=Profile%20views&color=0e75b6&style=flat" alt="salsykeys" /> </p>
 
-- 🔭 I’m currently working on **NARAFlow**
+- 🔭 I’m currently working on **NARAFlow and WOMS V2**
 
 - 🌱 I’m currently learning **PostgreSQL and FastAPI**
 
-- 💬 Ask me about **Audio stuff**
+- 💬 Ask me about some **Audio stuff**
 
 - 📫 How to reach me **ahmadfaisall9712@gmail.com**
 
